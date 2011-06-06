@@ -40,7 +40,7 @@ public class bert extends JavaPlugin {
         // EXAMPLE: Custom code, here we just output some info so we can check all is well
         PluginDescriptionFile pdfFile = this.getDescription();
         System.out.println( pdfFile.getName() + " version " + pdfFile.getVersion() + " is enabled!" );
-        System.out.println("test");
+        System.out.println("test test test");
     }
     public void onDisable() {
         // TODO: Place any custom disable code here
